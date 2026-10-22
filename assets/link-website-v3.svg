@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 104" width="596" height="104" role="img" aria-label="WEBSITE link">
-<defs><pattern id="p" width="64" height="64" patternUnits="userSpaceOnUse"><rect width="64" height="64" fill="#050505"/><rect x="8" y="8" width="8" height="8" fill="#0B0B0B"/><rect x="40" y="48" width="8" height="8" fill="#090909"/></pattern></defs>
-<rect width="596" height="104" fill="#050505"/><rect width="596" height="104" fill="url(#p)"/>
-<path d="M12 12H584V92H12Z" fill="none" stroke="#F5F5F5" stroke-opacity=".24"/>
-<path d="M12 12H52" stroke="#F5F5F5" stroke-width="3" opacity=".75"/>
-<text x="36" y="65" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="29" font-weight="650" fill="#F5F5F5" letter-spacing="1">WEBSITE</text>
-<text x="540" y="61" font-family="Consolas,monospace" font-size="17" text-anchor="end" fill="#A9A9A9">01</text>
-<path d="M552 72H568V56M554 70L568 56" stroke="#F5F5F5" stroke-width="2" fill="none" opacity=".76"/>
-</svg>
